@@ -1,6 +1,0 @@
-@EliteTileAPI_HostAddress = http://localhost:5151
-
-GET {{EliteTileAPI_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
